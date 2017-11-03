@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d1a24f980e3a02010540214cb7d736f2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\56e1134f06d42d4a91a718f6fb10a8e5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\8fde7532b66eb40f284f05de364be788\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7adb6a5c09327d327f855f864e18ca4d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\acb3cb5ecac985ac91ec6ff819031620\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fbfdbab227720510317180e0ddd58b39\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a3dbe7bdeaabca0b41826f29dd667ac4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9f681ae90e86ad65cbec1d93cfcdf5ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bac19c15506320aedd3a43f0244ffa08\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\751d9b15e320a5b818ac6052d312cd33\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USer\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ee32bc943c858d30349369ce6853ae9b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\GoogleLoginIntegration\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+
+</items>
