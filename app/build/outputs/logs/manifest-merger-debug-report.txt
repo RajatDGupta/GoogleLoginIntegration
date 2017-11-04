@@ -1,17 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
+ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\0fc4380811f74a21fd4aa8ecddae4350\AndroidManifest.xml:2:1-6:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:21:1-40:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ceb427d3a2c69d684d16b7e34b2eed45\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-auth:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.4.2.aar\243809eaf674d7134596d03af35bda24\AndroidManifest.xml:16:1-26:12
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\83663d3fc1e21a3d89d5879e0e8191c8\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\fb2cedbbf5abfa105f45ccc3ff29aeeb\AndroidManifest.xml:16:1-35:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e1a479765b2d3dbb046067b7a644e4be\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\815a754a3eaa0bd6ed707b206cb84195\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\a97ed8de8e513b08b9e192c22ed64e7a\AndroidManifest.xml:2:1-4:12
 MERGED from [com.google.android.gms:play-services-auth-base:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.2.aar\d624458b4bfa792ccd33c5a53500a9a8\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\62ae2de6cadf1372612493f2a45a1296\AndroidManifest.xml:16:1-21:12
@@ -21,10 +22,12 @@ MERGED from [com.google.firebase:firebase-common:11.4.2] C:\Users\Neeraj\.gradle
 MERGED from [com.google.android.gms:play-services-tasks:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.4.2.aar\b00a99f2fda2911e4ae46e346b37dd24\AndroidManifest.xml:2:1-5:12
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\e1580eb14b8d7376869371d8d598394d\AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\21100edc0a2d807652b543fc378da4d9\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.4.2.aar\ef160b043d1f4a520370d235efef316e\AndroidManifest.xml:2:1-6:12
@@ -35,22 +38,22 @@ MERGED from [com.google.android.gms:play-services-basement-license:11.4.2] C:\Us
 MERGED from [com.google.android.gms:play-services-tasks-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.4.2.aar\82fd20bca10407797e14761238b36bbe\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\4d471cbcaebd425901c4ebf86ee11699\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\018852ae75f362087db1e353be64dfc1\AndroidManifest.xml:2:1-6:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:17:1-30:12
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\abfedd493b46d93d38c50669c356d77a\AndroidManifest.xml:2:1-6:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
-INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:3:5-72
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
-		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
-		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-23:12
+		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:1-26:12
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:2:11-69
@@ -65,9 +68,11 @@ MERGED from [com.google.firebase:firebase-iid:11.4.2] C:\Users\Neeraj\.gradle\ca
 	android:name
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:7:5-21:19
+ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:7:5-24:19
 MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\0fc4380811f74a21fd4aa8ecddae4350\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\0fc4380811f74a21fd4aa8ecddae4350\AndroidManifest.xml:5:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:28:5-38:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:28:5-38:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ceb427d3a2c69d684d16b7e34b2eed45\AndroidManifest.xml:9:5-20
@@ -78,10 +83,10 @@ MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Neeraj\.gradle\caches\
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\83663d3fc1e21a3d89d5879e0e8191c8\AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\fb2cedbbf5abfa105f45ccc3ff29aeeb\AndroidManifest.xml:24:5-34:19
 MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\fb2cedbbf5abfa105f45ccc3ff29aeeb\AndroidManifest.xml:24:5-34:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e1a479765b2d3dbb046067b7a644e4be\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e1a479765b2d3dbb046067b7a644e4be\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\815a754a3eaa0bd6ed707b206cb84195\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\815a754a3eaa0bd6ed707b206cb84195\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\62ae2de6cadf1372612493f2a45a1296\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-base:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-base-11.4.2.aar\62ae2de6cadf1372612493f2a45a1296\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.4.2.aar\15f572ea86f798ce05c68799fe6fea71\AndroidManifest.xml:24:5-28:19
@@ -96,14 +101,18 @@ MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Neer
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\e1580eb14b8d7376869371d8d598394d\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\21100edc0a2d807652b543fc378da4d9\AndroidManifest.xml:5:5-20
@@ -124,10 +133,10 @@ MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Neeraj
 MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\4d471cbcaebd425901c4ebf86ee11699\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\018852ae75f362087db1e353be64dfc1\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\018852ae75f362087db1e353be64dfc1\AndroidManifest.xml:5:5-20
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\abfedd493b46d93d38c50669c356d77a\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\abfedd493b46d93d38c50669c356d77a\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
@@ -154,12 +163,20 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:18:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:22:9-23:54
+	android:value
+		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml:22:20-65
 uses-sdk
 INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\0fc4380811f74a21fd4aa8ecddae4350\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-core-11.4.2.aar\0fc4380811f74a21fd4aa8ecddae4350\AndroidManifest.xml:4:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ceb427d3a2c69d684d16b7e34b2eed45\AndroidManifest.xml:5:5-7:41
@@ -170,10 +187,10 @@ MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Neeraj\.gradle\caches\
 MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\83663d3fc1e21a3d89d5879e0e8191c8\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\fb2cedbbf5abfa105f45ccc3ff29aeeb\AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.4.2.aar\fb2cedbbf5abfa105f45ccc3ff29aeeb\AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e1a479765b2d3dbb046067b7a644e4be\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e1a479765b2d3dbb046067b7a644e4be\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\815a754a3eaa0bd6ed707b206cb84195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\815a754a3eaa0bd6ed707b206cb84195\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\a97ed8de8e513b08b9e192c22ed64e7a\AndroidManifest.xml:3:3-41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.4.2.aar\a97ed8de8e513b08b9e192c22ed64e7a\AndroidManifest.xml:3:3-41
 MERGED from [com.google.android.gms:play-services-auth-base:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.4.2.aar\d624458b4bfa792ccd33c5a53500a9a8\AndroidManifest.xml:4:5-43
@@ -192,14 +209,18 @@ MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Neer
 MERGED from [com.google.android.gms:play-services-basement:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.4.2.aar\e1580eb14b8d7376869371d8d598394d\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:21:5-23:58
 MERGED from [com.google.android.gms:play-services-auth-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\play-services-auth-license-11.4.2.aar\21100edc0a2d807652b543fc378da4d9\AndroidManifest.xml:4:5-43
@@ -220,10 +241,10 @@ MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Neeraj
 MERGED from [com.google.firebase:firebase-common-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.4.2.aar\4d471cbcaebd425901c4ebf86ee11699\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\018852ae75f362087db1e353be64dfc1\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.4.2.aar\018852ae75f362087db1e353be64dfc1\AndroidManifest.xml:4:5-43
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\abfedd493b46d93d38c50669c356d77a\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.4.2] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.4.2.aar\abfedd493b46d93d38c50669c356d77a\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1ed7a3d3d3b55970500f5825864ba869\AndroidManifest.xml:20:5-22:41
 INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -236,22 +257,40 @@ INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.x
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 		ADDED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
 		INJECTED from E:\(D-drive)\GoogleLoginIntegration\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:34:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\8bb58373e6bfde14805375f07f6a222a\AndroidManifest.xml:37:19-68
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\904835ae9ace7b55204e42388e2462f0\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\dc4071d478f8a4cba80f3030203ddfd5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3826c7ddc08b5f29226db9a6081b82dc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\f8f354a8c40df7064201ded9e8ede6b6\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\320acc2ddfe9f6e0f4281ee1e83110a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\0a7d90f21f29cada9e757ed3d029fea2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4c0d0728884706f52b9247d6c610e15b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\27c0f17f1eb0bc4e39ff6bca70718d35\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Neeraj\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a54765778c76c6377723c0388f5b485d\AndroidManifest.xml:26:9-28:38
 	android:value

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GoogleLoginIntegration</string>
+
+    <string name="facebook_app_id">1735344639872087</string>
 </resources>

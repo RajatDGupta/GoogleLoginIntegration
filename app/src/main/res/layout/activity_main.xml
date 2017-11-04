@@ -4,23 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="5dp"
     android:orientation="vertical"
-    android:weightSum="1"
+    android:weightSum="3"
     tools:context="google.socialmedia.neerajgupta.com.googleloginintegration.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_weight="0.1">
+        android:layout_weight="1">
 
         <LinearLayout
             android:id="@+id/li_profile"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+
             android:orientation="horizontal"
-            android:weightSum="1"
-            >
+            android:weightSum="1">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -80,15 +80,44 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_gravity="bottom">
+        android:layout_weight="1"
+        android:gravity="center">
 
-        <com.google.android.gms.common.SignInButton
-            android:id="@+id/btn_signin"
+        <TextView
+            android:id="@+id/login_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp" />
+            android:orientation="vertical"
+            android:weightSum="2"
+            android:id="@+id/li_button">
 
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/btn_signin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginBottom="10dp"/>
 
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/facebookLogin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+
+                />
+        </LinearLayout>
     </LinearLayout>
 </LinearLayout>
