@@ -91,6 +91,10 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
         li_profile.setVisibility(View.GONE);
 
         printKeyHash(this);
+        
+         fb_login_button.setReadPermissions(Arrays.asList(
+                "public_profile", "email", "user_birthday", "user_friends"));
+
 
         callbackManager = CallbackManager.Factory.create();
         fb_login_button.registerCallback(callbackManager, this);
